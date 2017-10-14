@@ -34,11 +34,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxCDN = "//cdn.bootcss.com"
     MathJaxVersion = "2.7.1"
 
-    [params.logo]
-    url = "tang.png"#"hugo-logo.png"#"logo.png"
-    width = 80
-    height = 80
-    alt = "Logo"
+    #[params.logo]
+    #url = "tang.png"#"hugo-logo.png"#"logo.png"
+    #width = 80
+    #height = 80
+    #alt = "Logo"
     
     [params.logo]
     url = "kai.gif"#"hugo-logo.png"#"logo.png"
