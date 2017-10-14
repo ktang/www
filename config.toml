@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "hugo-logo.png"#"logo.png"
+    url = "tang.png"#"hugo-logo.png"#"logo.png"
     width = 50
     height = 50
     alt = "Logo"
