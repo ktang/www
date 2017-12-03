@@ -8,6 +8,7 @@ This blog is a reminder of how to set parameters of [Circos](http://circos.ca/)
 heatmap tutorial is at [http://circos.ca/documentation/tutorials/2d_tracks/heat_maps/lesson](http://circos.ca/documentation/tutorials/2d_tracks/heat_maps/lesson)
 
 1. control the heatmap position (r1 and r0)
+
 ```shell
 #conf file
 <plot>
