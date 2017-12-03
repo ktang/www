@@ -43,3 +43,8 @@ spacing = 25u
 thickness        = 5p#25p
 label_size     = 26#36
 ```
+
+5. get color legend
+```shell
+circos -conf ... -debug_group legend
+```
