@@ -1,7 +1,7 @@
 ---
 title: "Perl Module Install"
 author: "Kai Tang"
-date: 2018-10-25T15:30
+date: 2018-10-25
 categories: ["Perl"]
 tags: ["R Markdown", "Perl", "Module"]
 ---
